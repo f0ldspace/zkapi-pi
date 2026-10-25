@@ -1,0 +1,19 @@
+{
+  "name": "zkapi-pi",
+  "version": "0.1.0",
+  "description": "Pi extension: show the prepaid zkAPI private balance in ETH and USD, with note-expiry warnings",
+  "license": "MIT",
+  "keywords": ["pi-package", "pi", "zkapi", "balance", "extension"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f0ldspace/zkapi-pi.git"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "private": false
+}
