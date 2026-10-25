@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Pi extension: show the prepaid zkAPI private balance in ETH and USD, with note-expiry warnings",
   "license": "MIT",
-  "keywords": ["pi-package", "pi", "zkapi", "balance", "extension"],
+  "keywords": ["pi", "zkapi", "balance", "extension"],
   "files": ["extensions", "README.md", "LICENSE"],
   "repository": {
     "type": "git",
@@ -16,5 +16,5 @@
   "engines": {
     "node": ">=20"
   },
-  "private": false
+  "private": true
 }

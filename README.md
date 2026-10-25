@@ -6,14 +6,6 @@ The zkAPI daemon's `/admin/status` only reports policy, so this extension reads 
 
 ## Install
 
-From npm:
-
-```bash
-pi install npm:zkapi-pi
-```
-
-Or straight from GitHub, tracking `main`:
-
 ```bash
 pi install git:github.com/f0ldspace/zkapi-pi
 ```
@@ -25,7 +17,7 @@ all packages). Installing with a tag (`@v0.1.0`) pins the checkout instead.
 Try it for one session without installing:
 
 ```bash
-pi -e npm:zkapi-pi
+pi -e git:github.com/f0ldspace/zkapi-pi
 ```
 
 ## Prerequisites
