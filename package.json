@@ -4,6 +4,7 @@
   "description": "Pi extension: show the prepaid zkAPI private balance in ETH and USD, with note-expiry warnings",
   "license": "MIT",
   "keywords": ["pi-package", "pi", "zkapi", "balance", "extension"],
+  "files": ["extensions", "README.md", "LICENSE"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/f0ldspace/zkapi-pi.git"
